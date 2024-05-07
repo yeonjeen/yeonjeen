@@ -1,8 +1,13 @@
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA1C9&height=200&section=header&text=👩🏻‍💻YeonJeen👩🏻‍💻&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA1C9&height=200&section=header&text=👩🏻‍💻YeonJeen👩🏻‍💻&fontSize=80" />
 </div>
 <div align="center">
-    <h3>✨Welcom to YeonJeen's GitHub✨</h3>
-  
+    <h1>✨Welcom to YeonJeen's GitHub✨</h1>
 </div>
+
+<br>
+
+
+
+
