@@ -7,7 +7,7 @@
 <p align=center>I majored in software engineering and I'm a android developer✨</p>    
 </div>
 <br>
-![](./profile-green-animate.svg)
+
 
 
 
