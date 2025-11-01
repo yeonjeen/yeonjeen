@@ -70,7 +70,7 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
 
 ### 🛍️ [NapZak Market](https://github.com/napzakmarket/Napzak-Android) - 서브컬쳐 중고거래 서비스  
 > **Android, Mentor(2024.12 ~ current)**
-
+🔗 [PlayStore](https://play.google.com/store/apps/details?id=com.napzak.market&hl=ko)
 ---
 
 > Thanks for visiting! 🧸  
