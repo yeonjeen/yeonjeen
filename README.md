@@ -76,7 +76,7 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
 ---
 
 ### 🐻 [Dear Jolly](https://github.com/Dear-Jolly) - AI 영어 일기 서비스  
-> **PM, BE, Mobile(2025.11 ~ current)**
+> **PM, Design, BE, Mobile(2025.11 ~ current)**
 
 ---
 
