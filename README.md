@@ -55,7 +55,7 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
 ## 📌 Projects
 
 ### 🍀 [Clody](https://github.com/Team-Clody/Clody_Android) - AI 답장 감사일기 서비스
-> **Android, PM (2024.06 ~ current)**
+> **Android, Mobile, PM (2024.06 ~ current)**
 
 🔗 [PlayStore](https://play.google.com/store/apps/details?id=com.sopt.clody&pcampaignid=web_share)
 
