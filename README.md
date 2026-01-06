@@ -55,7 +55,7 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
 ## 📌 Projects
 
 ### 📚 [Websoso](https://github.com/Team-WSS/WSS-Android) - 웹소설 작품 추천 및 아카이빙, 커뮤니티 서비스
-> **Android, PM, Marketing (2023.12 ~ current)**
+> **Android, PM, Marketing (2023.12 ~ 2025.09)**
 
 🔗 [PlayStore](https://play.google.com/store/apps/details?id=com.into.websoso&pcampaignid=web_share)
 
@@ -76,7 +76,7 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
 ---
 
 ### 💌 [Dear Jolly](https://github.com/Dear-Jolly) - AI 영어 일기 서비스  
-> **PM, Design, BE, Mobile(2025.11 ~ current)**
+> **PM, BE, Mobile(2025.11 ~ current)**
 
 ---
 
