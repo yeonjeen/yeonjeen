@@ -72,7 +72,7 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
 > **PM, BE, Mobile(2025.11 ~ current)**
 
 ---
-### 💵 [MOA](https://github.com/Nexters/moa-android) - 월급 실시간 합계 서비스
+### 💵 [MOA](https://github.com/Nexters/moa-android) - 실시간 월급 체감 서비스
 > **Android(2026.01 ~ current)**
 
 ---
