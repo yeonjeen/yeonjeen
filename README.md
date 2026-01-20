@@ -72,7 +72,10 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
 > **PM, BE, Mobile(2025.11 ~ current)**
 
 ---
+### 💵 [MOA](https://github.com/Nexters/moa-android) - 월급 실시간 합계 서비스
+> **Android(2026.01 ~ current)**
 
+---
 ### 📚 [Websoso](https://github.com/Team-WSS/WSS-Android) - 웹소설 작품 추천 및 아카이빙, 커뮤니티 서비스
 > **Android, PM, Marketing (2023.12 ~ 2025.09)**
 
