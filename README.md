@@ -23,13 +23,15 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
 
-### 📱 Android Development  
+### 📱 Mobile Development 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=Jetpack%20Compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-E34F26?style=flat-square&logo=xml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
 ### 🧰 Tools & Collaboration  
@@ -43,12 +45,13 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
 
 ### ⚙️ Architecture & Patterns  
 <p>
-   <img src="https://img.shields.io/badge/MVVM-007ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MVVM-007ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MVI-FF6F00?style=flat-square"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-7952B3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Google%20App%20Architecture-4285F4?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MultiModule-FF69B4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google%20App%20Architecture-4285F4?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Enterprise-34A853?style=flat-square&logo=android&logoColor=white"/>
 </p>
-
 
 ---
 
