@@ -71,18 +71,20 @@ I enjoy building structured logic and user-friendly mobile experiences with **Je
 
 ---
 
-### 💌 [Dear Jolly](https://github.com/Dear-Jolly) - AI 영어 일기 서비스  
-> **PM, BE, Mobile(2025.11 ~ current)**
-
----
 ### 💵 [MOA](https://github.com/Nexters/moa-android) - 실시간 월급 체감 서비스
 > **Android(2026.01 ~ current)**
+
+🔗 [PlayStore]()
 
 ---
 ### 📚 [Websoso](https://github.com/Team-WSS/WSS-Android) - 웹소설 작품 추천 및 아카이빙, 커뮤니티 서비스
 > **Android, PM, Marketing (2023.12 ~ 2025.09)**
 
 🔗 [PlayStore](https://play.google.com/store/apps/details?id=com.into.websoso&pcampaignid=web_share)
+
+---
+### 💌 [Dear Jolly](https://github.com/Dear-Jolly) - AI 영어 일기 서비스  
+> **PM, BE, Mobile(2025.11 ~ current)**
 
 ---
 
